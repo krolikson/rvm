@@ -1,6 +1,6 @@
 {
-  "version": "v7.43.0.800596475 (patches 5.34.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/krolikson/rvm/releases/download/1/googlephotos-revanced-magisk-v7.43.0.800596475-arm-v7a.zip",
+  "version": "v7.45.0.804174563 (patches 5.36.0)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/krolikson/rvm/releases/download/4/googlephotos-revanced-magisk-v7.45.0.804174563-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/krolikson/rvm/update/build.md"
 }
