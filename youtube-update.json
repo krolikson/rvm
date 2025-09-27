@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.40.0)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/krolikson/rvm/releases/download/9/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.41.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/krolikson/rvm/releases/download/10/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/krolikson/rvm/update/build.md"
 }
